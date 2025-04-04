@@ -50,7 +50,8 @@ Organizar o projeto com boas práticas
 
 👨‍💻 Feito com 💻 por @leohegeto! 
 
+```bash
+
 ## 🧩 Planejamento no Trello
 
 ![Planejamento no Trello](docs/trello_board.PNG)
-
