@@ -19,6 +19,9 @@ api-jsonplaceholder/ │ ├── app.py # Arquivo principal da aplicação Fla
 - Listar os posts da API externa no formato JSON
 - Tratar e exibir o `status_code` da resposta
 
+![Planejamento no Trello](docs/trello_board.PNG)
+
+
 ## ▶️ Como Rodar
 ```bash
 Clone o repositório:
@@ -50,4 +53,3 @@ Organizar o projeto com boas práticas
 👨‍💻 Feito com 💻 por @leohegeto! 
 
 
-![Planejamento no Trello](docs/trello_board.PNG)
