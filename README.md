@@ -49,3 +49,7 @@ Entender códigos de status HTTP
 Organizar o projeto com boas práticas
 
 👨‍💻 Feito com 💻 por @leohegeto! 
+
+## 🧩 Planejamento no Trello
+
+![Planejamento no Trello](docs/trello_board.png)
