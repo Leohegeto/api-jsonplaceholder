@@ -52,7 +52,7 @@ http://127.0.0.1:5000/posts
 👨‍💻 Feito com 💻 por [@leohegeto](https://github.com/leohegeto)!
 
 ---
-
+```
 ## 🧠 Planejamento no Trello
 
 ![Planejamento no Trello](docs/trello_board.PNG)
