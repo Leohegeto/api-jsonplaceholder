@@ -19,11 +19,10 @@ api-jsonplaceholder/ │ ├── app.py # Arquivo principal da aplicação Fla
 - Listar os posts da API externa no formato JSON
 - Tratar e exibir o `status_code` da resposta
 
-![Planejamento no Trello](docs/trello_board.PNG)
-
-
 ## ▶️ Como Rodar
+
 ```bash
+
 Clone o repositório:
 git clone https://github.com/leohegeto/api-jsonplaceholder.git
 cd api-jsonplaceholder
@@ -41,15 +40,19 @@ python app.py
 Acesse no navegador:
 http://127.0.0.1:5000/posts
 
-🎯 Objetivos de Estudo
-Praticar o uso do Flask
+## 📌 Objetivos de Estudo
 
-Consumir APIs REST com requests
+- Praticar o uso do Flask  
+- Consumir APIs REST com requests  
+- Entender códigos de status HTTP  
+- Organizar o projeto com boas práticas  
 
-Entender códigos de status HTTP
+---
 
-Organizar o projeto com boas práticas
+👨‍💻 Feito com 💻 por [@leohegeto](https://github.com/leohegeto)!
 
-👨‍💻 Feito com 💻 por @leohegeto! 
+---
 
+## 🧠 Planejamento no Trello
 
+![Planejamento no Trello](docs/trello_board.PNG)
