@@ -52,4 +52,4 @@ Organizar o projeto com boas práticas
 
 ## 🧩 Planejamento no Trello
 
-![Planejamento no Trello](docs/trello_board.png)
+![Planejamento no Trello](docs/trello_board.PNG)
