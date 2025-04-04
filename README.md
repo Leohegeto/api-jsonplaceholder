@@ -20,9 +20,8 @@ api-jsonplaceholder/ │ ├── app.py # Arquivo principal da aplicação Fla
 - Tratar e exibir o `status_code` da resposta
 
 ## ▶️ Como Rodar
-
-1. Clone o repositório:
 ```bash
+Clone o repositório:
 git clone https://github.com/leohegeto/api-jsonplaceholder.git
 cd api-jsonplaceholder
 
@@ -50,8 +49,3 @@ Organizar o projeto com boas práticas
 
 👨‍💻 Feito com 💻 por @leohegeto! 
 
-```bash
-
-## 🧩 Planejamento no Trello
-
-![Planejamento no Trello](docs/trello_board.PNG)
